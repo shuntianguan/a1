@@ -1,2 +1,2 @@
 # a1
-Computer network course design of mail sending and receiving system(NEU)
+This project is a mail sending and receiving system based on SMTP and POP3 protocols made by Luo Ziping and Guan Shuntian, aiming to complete the course design of computer network.
